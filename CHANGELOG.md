@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.0] - 2023-01-09
+- Fix Node.js 12 actions are deprecated warning
+- Fix the set-output command is deprecated warning
+- Bump @actions/github from 4.0.0 to 5.1.1 by @dependabot in #4
+- Bump @types/node from 16.18.11 to 18.11.18 by @dependabot in #3
+
 ## [2.4.0] - 2023-01-09
 - Update to node 16
 - Bump most dependencies
